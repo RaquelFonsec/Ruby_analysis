@@ -1,0 +1,2 @@
+module TitanicHelper
+end
